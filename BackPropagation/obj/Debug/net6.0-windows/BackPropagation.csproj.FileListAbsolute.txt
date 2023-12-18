@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\BackPropagation\BackPropagation\bin\Debug\net6.0-windows\BackPropagation.exe
+C:\Users\user\source\repos\BackPropagation\BackPropagation\bin\Debug\net6.0-windows\BackPropagation.deps.json
+C:\Users\user\source\repos\BackPropagation\BackPropagation\bin\Debug\net6.0-windows\BackPropagation.runtimeconfig.json
+C:\Users\user\source\repos\BackPropagation\BackPropagation\bin\Debug\net6.0-windows\BackPropagation.dll
+C:\Users\user\source\repos\BackPropagation\BackPropagation\bin\Debug\net6.0-windows\BackPropagation.pdb
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.Form1.resources
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.AssemblyInfo.cs
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.dll
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\refint\BackPropagation.dll
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.pdb
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\BackPropagation.genruntimeconfig.cache
+C:\Users\user\source\repos\BackPropagation\BackPropagation\obj\Debug\net6.0-windows\ref\BackPropagation.dll
